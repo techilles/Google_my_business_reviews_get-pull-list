@@ -1,4 +1,4 @@
-# <Solved> : List/Pull/Get all google reviews through the google my business api using python.
+# Solved : List/Pull/Get all google reviews through the google my business api using python.
 Get google reviews using Google My Business API for all accounts and locations
 
 Install all the required libraries.
